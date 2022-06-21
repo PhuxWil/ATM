@@ -14,4 +14,4 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/PhuxWil/RockPaperScissors/blob/main/RPS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/PhuxWil/ATM/blob/main/ATM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
